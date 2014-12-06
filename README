@@ -1,0 +1,14 @@
+Simple web interface to take a picture with picamera and display it
+
+Requires python, web.py and the picamera packages:
+
+sudo apt-get install python python-picamera python-webpy
+
+Running:
+
+python ygorcam.py
+
+Accessing:
+
+wget http://127.0.0.1/camera
+
